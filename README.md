@@ -1,12 +1,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NekokeCore&show_icons=true" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" width="40%" src="https://github.com/NekokeCore/NekokeCore/blob/main/rainbow.gif?raw=true" />
 </a>
   
 
-  ### Hi there 👋 @NekokeCore
+### Hi there 👋 @NekokeCore
 - 🌱 I’m currently learning JAVA and C#
 - 🤔 I’m looking for help with C# Leanning
 - 💬 Ask me about some about MLP
