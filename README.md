@@ -1,6 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NekokeCore)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
-- ~~ 🔭 I’m currently working on ~~ No Work Yet
 - 🌱 I’m currently learning JAVA and C#
 - 👯 I’m looking to collaborate on Minecraft:JavaEdition Plugins Project
 - 🤔 I’m looking for help with C# Leanning
