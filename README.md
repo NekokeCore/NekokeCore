@@ -1,6 +1,7 @@
 <table><tr>
-<td><img align="Left" src="https://github-readme-stats.vercel.app/api?username=NekokeCore&show_icons=true" /></td>
-<td><img align="right" width="45%" src="https://github.com/NekokeCore/NekokeCore/blob/main/rainbow.gif?raw=true" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api?username=NekokeCore&show_icons=true" /></td>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekokeCore&show_icons=true&theme=vue"/></td>
+<td><img width="50%" src="https://github.com/NekokeCore/NekokeCore/blob/main/rainbow.gif?raw=true" /></td>
 </tr></table>
 
 ### Hi there 👋 @NekokeCore
