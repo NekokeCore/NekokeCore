@@ -1,7 +1,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NekokeCore&show_icons=true" />
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" width="22%" src="https://github.com/NekokeCore/NekokeCore/blob/main/rainbow.gif?raw=true" />
+  <img align="center" width="23%" src="https://github.com/NekokeCore/NekokeCore/blob/main/rainbow.gif?raw=true" />
 </a>
   
 ### Hi there 👋 @NekokeCore
