@@ -7,10 +7,10 @@
 ### Hi there 👋 @NekokeCore
 - 🌱 I’m currently learning JAVA and C#
 - 🤔 I’m looking for help with C# Leanning
-- 💬 Ask me about some about MLP
+- 💬 Ask me about some about MLP,Furry
 - 📫 How to reach me: Telegram @NekokeCore
 - 😄 Pronouns: Friendship is magic !
-- ⚡ Fun fact: Did you konw Kanasho?
+- ⚡ Fun fact: NaN
 
 ### OpenWrt编译状态
 
