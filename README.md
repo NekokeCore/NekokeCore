@@ -1,10 +1,4 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NekokeCore&show_icons=true" />
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" width="23%" src="https://github.com/NekokeCore/NekokeCore/blob/main/rainbow.gif?raw=true" />
-</a>
-  
-### Hi there 👋 @NekokeCore
+## Hi there 👋 @NekokeCore
 - 🌱 I’m currently learning JAVA and C#
 - 🤔 I’m looking for help with C# Leanning
 - 💬 Ask me about some about MLP,Furry
@@ -12,7 +6,7 @@
 - 😄 Pronouns: Friendship is magic !
 - ⚡ Fun fact: NaN
 
-### OpenWrt编译状态
+### OpenWrt Action Status
 
 |                           支持设备                           |                           编译状态                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
