@@ -1,10 +1,10 @@
 ## Hi there 👋 @NekokeCore
-- 🌱 I’m currently learning JAVA and C#
-- 🤔 I’m looking for help with C# Leanning
+- 🌱 I’m currently learning JAVA,C,CPP,Python and C#, Major in C.
+- 🤔 I’m looking for help with C#,CPP Leanning
 - 💬 Ask me about some about MLP,Furry
 - 📫 How to reach me: Telegram @NekokeCore
 - 😄 Pronouns: Friendship is magic !
-- ⚡ Fun fact: NaN
+- ⚡ Fun fact: I am a furry!
 
 ### OpenWrt Action Status
 
