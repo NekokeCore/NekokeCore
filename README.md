@@ -11,5 +11,6 @@
         <li>🔗 Website: <a herf="">https://www.emtips.net</a> , <a herf="https://www.poii.tech/">https://www.poii.tech</a></li>
     </ul>
     <a href="https://wakatime.com/@3cd09875-0af6-4ec6-a7b4-a5a6c6eefb6d"><img src="https://wakatime.com/badge/user/3cd09875-0af6-4ec6-a7b4-a5a6c6eefb6d.svg" alt="Total time coded since Jul 30 2023"/></a>
-    <a href="https://www.emtips.net"><img alt="Static Badge" src="https://img.shields.io/badge/HomeWebsite-Open-brightgreen?link=https%3A%2F%2Fwww.emtips.net%2F"></a>
+    <a href="https://www.emtips.net"><img alt="Static Badge" src="https://img.shields.io/badge/HomeWebsite-Open-brightgreen?style=socail&link=https%3A%2F%2Fwww.emtips.net%2F">
+</a>
 </div>
