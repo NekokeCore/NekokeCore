@@ -10,8 +10,8 @@
         <li>⚡ Fun Fact: NULL</li>
         <li>🔗 Website: <a herf="">https://www.emtips.net</a> , <a herf="https://www.poii.tech/">https://www.poii.tech</a></li>
     </ul>
-    <a href="https://wakatime.com/@3cd09875-0af6-4ec6-a7b4-a5a6c6eefb6d"><img src="https://wakatime.com/badge/user/3cd09875-0af6-4ec6-a7b4-a5a6c6eefb6d.svg?style=for-the-badge" alt="Total time coded since Jul 30 2023"/></a>
-    <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Version-7.0.0-blue?style=for-the-badge&logo=dotnet&logoColor=%23FFFFFF&labelColor=%23222222"></a>
-    <a href="https://www.poii.tech"><img alt="Static Badge" src="https://img.shields.io/badge/Version-6.3.0-blue?style=for-the-badge&logo=linux&logoColor=%23FFFFFF&labelColor=%23222222">
+    <a href="https://wakatime.com/@3cd09875-0af6-4ec6-a7b4-a5a6c6eefb6d"><img src="https://wakatime.com/badge/user/3cd09875-0af6-4ec6-a7b4-a5a6c6eefb6d.svg?style=flat" alt="Total time coded since Jul 30 2023"/></a>
+    <a href=""><img alt="Static Badge" src="https://img.shields.io/badge/Version-7.0.0-blue?style=flat&logo=dotnet&logoColor=%23FFFFFF&labelColor=%23222222"></a>
+    <a href="https://www.poii.tech"><img alt="Static Badge" src="https://img.shields.io/badge/Version-6.3.0-blue?style=flat&logo=linux&logoColor=%23FFFFFF&labelColor=%23222222">
 </a>
 </div>
