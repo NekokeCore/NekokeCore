@@ -5,7 +5,8 @@
         <li>🌱 I’m currently learning Java,C,Python and C#, Major in C Sharp.</li>
         <li>🤔 I’m looking for help with C# Learning</li>
         <li>💬 Feel free to ask me about MLP & Furry</li>
-        <li>📫 Contacts: Telegram @NekokeCore and E-mail: nekokecore@emtips.net</li>
+        <li>✈️ Telegram: @NekokeCore</li>
+        <li>📧 E-mail: nekokecore@emtips.net</li>
         <li>😄 Pronouns: Friendship is magic !</li>
         <li>⚡ Fun Fact: NULL</li>
         <li>🔗 Blog: <a href="https://www.emtips.net">Ashley's Zone</a> , <a href="https://www.1tip.cc">Ashley's Lab</a></li>
