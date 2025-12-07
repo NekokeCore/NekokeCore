@@ -13,6 +13,6 @@
         <li>🔑 &nbsp;GPG Key: https://github.com/NekokeCore.gpg , Use <code>curl -sL https://github.com/NekokeCore.gpg | gpg --import</code> to import my key</li>
     </ul>
     <a href="https://wakatime.com/@3cd09875-0af6-4ec6-a7b4-a5a6c6eefb6d">
-        <img src="https://wakatime.com/badge/user/3cd09875-0af6-4ec6-a7b4-a5a6c6eefb6d.svg?style=flat" alt="Total time coded since Jul 30 2023"/>
+        <img src="https://wakatime.com/badge/user/3cd09875-0af6-4ec6-a7b4-a5a6c6eefb6d.svg?style=for-the-badge" alt="Total time coded since Jul 30 2023"/>
     </a>
 </div>
